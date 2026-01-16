@@ -37,4 +37,6 @@ The project follows these key steps:
 4. **Evaluation**:  
    - Measured performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.  
 
+## Best Score
+0.758
 
