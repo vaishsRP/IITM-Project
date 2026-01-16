@@ -4,9 +4,9 @@ This repository contains a machine learning project aimed at predicting whether 
 # Dataset Description
 The dataset contains information collected from previous marketing campaigns. It is divided into training and test sets:
 
-train.csv: Training dataset used to build the predictive model.
-test.csv: Test dataset used for evaluation.
-sample_submission.csv: Sample output file format for predictions.
+- train.csv: Training dataset used to build the predictive model.
+- test.csv: Test dataset used for evaluation.
+- sample_submission.csv: Sample output file format for predictions.
 
 # Input Variables
 The dataset includes the following features:
