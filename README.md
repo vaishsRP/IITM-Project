@@ -6,7 +6,6 @@ The dataset contains information collected from previous marketing campaigns. It
 
 - train.csv: Training dataset used to build the predictive model.
 - test.csv: Test dataset used for evaluation.
-- sample_submission.csv: Sample output file format for predictions.
 
 # Input Variables
 The dataset includes the following features:
